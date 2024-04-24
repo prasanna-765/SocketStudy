@@ -1,6 +1,8 @@
 # Ex.No:1a  			Study of Socket Programming
-Name:PRASANNA A
-Ref no:212223220078
+#Name:PRASANNA A
+
+#Ref no:212223220078
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
